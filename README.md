@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- https://verify.loma.org/badge/EE736DCCBBCE45F497A5C1FF9A3FA4CB
+- https://www.credly.com/badges/31f29c0d-a5be-4fdc-a5c2-306cd788fc61/linked_in_profile
+- https://www.udemy.com/certificate/UC-ce52c19b-9aeb-4062-af56-d6f30ffd0111/
