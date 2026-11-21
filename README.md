@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 ## Cerfifications
 
-<a href="[https://certification-link-1.com](https://verify.loma.org/badge/EE736DCCBBCE45F497A5C1FF9A3FA4CB)"><img src="LOMA FLMI Lvl1.jpeg" width="100"></a><a href="[https://certification-link-2.com](https://www.credly.com/badges/31f29c0d-a5be-4fdc-a5c2-306cd788fc61)"><img src="azure-administrator-associate.webp" width="100"></a><a href="(https://www.udemy.com/certificate/UC-ce52c19b-9aeb-4062-af56-d6f30ffd0111/)"><img src="Oracle-Certification-badge.png" width="100"></a>
+<a href="[https://verify.loma.org/badge/EE736DCCBBCE45F497A5C1FF9A3FA4CB]"><img src="LOMA FLMI Lvl1.jpeg" width="100"></a><a href="[https://www.credly.com/badges/31f29c0d-a5be-4fdc-a5c2-306cd788fc61]"><img src="azure-administrator-associate.webp" width="100"></a><a href="[https://www.udemy.com/certificate/UC-ce52c19b-9aeb-4062-af56-d6f30ffd0111/]"><img src="Oracle-Certification-badge.png" width="100"></a>
