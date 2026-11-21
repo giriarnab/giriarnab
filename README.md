@@ -1,3 +1,4 @@
+![Banner](github_banner.svg)
 ## Hi there 👋
 
 <!--
