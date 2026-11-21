@@ -1,4 +1,4 @@
-![Banner](github_banner.svg)
+![Banner](github-banner.svg)
 ## Hi there 👋
 
 <!--
